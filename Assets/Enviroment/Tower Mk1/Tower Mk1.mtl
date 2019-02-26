@@ -1,0 +1,12 @@
+# Exported from 3D Builder
+
+newmtl FrontColor_0
+Kd 1.000000 1.000000 1.000000
+
+newmtl Mat_0
+Kd 1.000000 1.000000 1.000000
+map_Kd Concrete_Block_8x8_Gray.jpg
+
+newmtl Mat_1
+Kd 1.000000 1.000000 1.000000
+map_Kd Wood_Lumber_ButtJoined.jpg
